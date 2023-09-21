@@ -4,3 +4,4 @@ tmp/
 *.DS_Store
 Site For Import/img/Thumbs.db
 tmp/.DS_Store
+.DS_Store
