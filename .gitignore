@@ -3,3 +3,4 @@ tmp/
 *_backup
 *.DS_Store
 Site For Import/img/Thumbs.db
+tmp/.DS_Store
